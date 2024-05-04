@@ -28,7 +28,7 @@ The kiosk location data was obtained through the City of Austin and provides add
 https://data.austintexas.gov/Transportation-and-Mobility/Austin-MetroBike-Kiosk-Locations/qd73-bsdg/data
 
 ## Methodology
-The analysis employs Python for data processing and exploratory analysis. Key steps include:
+The analysis employs Python for data processing and exploratory analysis and Tableau for visualizations. Key steps include:
 
 + Relationship Explorations through Visualization
 + Geographical Analysis
@@ -41,5 +41,5 @@ The repository contains the following deliverables:
 
 + [Python Code](<MetroBike Scripts>): Scripts used for data analysis.
 + [Excel Report](<MetroBike Report>): A comprehensive report encompassing analysis methods, visualizations, and insights.
-+ [Tableau Dashboard]: A dashboard with interactive visualizations of the data that highlights key metrics and provides insights. 
++ [Tableau Dashboard](https://public.tableau.com/views/AustinMetroBikesAnalysis/DashMain?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link): A dashboard with interactive visualizations of the data that highlights key metrics and provides insights. 
 
